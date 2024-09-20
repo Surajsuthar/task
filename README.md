@@ -7,7 +7,7 @@ Task manager
 ## Installation
 1. Clone the repository:
 ```bash
- git clone https://github.com/Surajsuthar/School-details-api.git
+  git clone https://github.com/Surajsuthar/task.git
 ```
 
 2. Install dependencies:
